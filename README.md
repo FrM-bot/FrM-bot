@@ -1,27 +1,8 @@
 ### Hi there 👋
 ## 🔭 I’m currently working on ...
-<!--
-**FrM-bot/FrM-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrM-bot&count_private=true&theme=gotham)](https://github.com/FrM-bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrM-bot&layout=default&theme=gotham)](https://github.com/FrM-bot)
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrM-bot&count_private=true)
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=FrM-bot)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/username=FrM-bot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username=FrM-bot&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/username=FrM-bot/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=username=FrM-bot&repo=convoychat" />
-</a>
+## [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frm-bot.xyz/)
