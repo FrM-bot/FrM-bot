@@ -4,7 +4,15 @@
    <h2 align="center">Desarrollador Web Full Stack</h2>
 </div>
 
-
+```js
+const FrM_bot = {
+   name: 'Franco',
+   lastname: 'Maciel',
+   code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+   tools: ['React', 'Redux', 'GraphQL', 'Prisma', 'Mongoose', 'Node/Express'],
+   dbs: ['MongoBD', 'PostgreSQL']
+}
+```
 ### Sobre mi:
 - 🌎 Chaco, Argentina.
 - ⚒️ Actualmente estoy buscando trabajo.
@@ -12,19 +20,6 @@
 
 ### ¿Quién soy?
 - Desarrollador Full Stack. Anteriormente estudiante de ingeniería en sistemas de información.
-
-### ¿Qué conocimientos tengo?
-- HTML5
-- CSS3(Responsive design)
-- ES6+
-- React
-- Redux
-- TypeScript
-- Node/Express(RESTful APIs)
-- GraphQL
-- Testing
-- MongoDB
-- PostgreSQL.
 
 ### También me puedes encontrar en:
 - Github: https://github.com/FrM-bot
