@@ -1,13 +1,14 @@
 
 <div> 
    <h1 align="center">¡Hola! Soy Franco Maciel</h1>
+   <h2 align="center">Desarrollador Web Full Stack</h2>
 </div>
-<h2 align="center">Desarrollador Web</h2>
 
 
 ### Sobre mi:
-- Chaco, Argentina.
-- Actualmente estoy buscando trabajo.
+- 🌎 Chaco, Argentina.
+- ⚒️ Actualmente estoy buscando trabajo.
+- 🌐 Mi pagina web https://frm-bot.xyz
 
 ### ¿Quién soy?
 - Desarrollador Full Stack. Anteriormente estudiante de ingeniería en sistemas de información.
