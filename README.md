@@ -9,7 +9,7 @@ const FrM_bot = {
    name: 'Franco',
    lastname: 'Maciel',
    code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-   tools: ['React', 'Redux', 'GraphQL', 'Prisma', 'Mongoose', 'Node/Express'],
+   tools: ['React', 'Redux', 'GraphQL', 'Prisma', 'Mongoose', 'Node/Express', 'Tailwind', 'Next.js'],
    dbs: ['MongoBD', 'PostgreSQL']
 }
 ```
