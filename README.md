@@ -1,6 +1,4 @@
-<p align="center" width="300">
-   <span align="center">Desarrollador Web</span>
-</p>
+
 <div> 
    <h3 align="center">¡Hola! Soy Franco Maciel</h3>
 </div>
