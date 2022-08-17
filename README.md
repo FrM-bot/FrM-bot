@@ -1,8 +1,10 @@
 
-<div> 
-   <h3 align="center">¡Hola! Soy Franco Maciel</h3>
-</div>
-<span align="center">Desarrollador Web</span>
+<p> 
+   <h1 align="center">¡Hola! Soy Franco Maciel</h1>
+</p>
+<p>
+   <h2 align="center">Desarrollador Web</h2>
+</p>
 
 ## Sobre mi
 
