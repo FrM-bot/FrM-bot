@@ -1,8 +1,15 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hola! Soy FRanco Maciel</h3>
+   <h3 align="center">¡Hola! Soy Franco Maciel</h3>
+   <span align="center">Desarrollador Web</span>
 </p>
 
-##Sobre mi
+## Sobre mi
+
+- Soy de Chaco, Argentina.
+- Actualmente estoy buscando.
+- Puedes contactarme a través de:
+- Linkedin: https://www.linkedin.com/in/franco-maciel
+- Email: damianmaciel0@gmail.com@gmail.com 
 
 
 ## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrM-bot&count_private=true&theme=gotham)](https://github.com/FrM-bot)
