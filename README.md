@@ -8,10 +8,10 @@
 ### Sobre mi:
 
 - Soy de Chaco, Argentina.
-- Actualmente estoy buscando.
+- Actualmente estoy buscando trabajo.
 - Puedes contactarme a través de:
 - Linkedin: https://www.linkedin.com/in/franco-maciel
-- Email: damianmaciel0@gmail.com@gmail.com 
+- Email: damianmaciel0@gmail.com@gmail.com
 
 # [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frm-bot.xyz/)
 
