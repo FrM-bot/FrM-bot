@@ -2,9 +2,7 @@
 <p> 
    <h1 align="center">¡Hola! Soy Franco Maciel</h1>
 </p>
-<p>
-   <h2 align="center">Desarrollador Web</h2>
-</p>
+ <h2 align="center">Desarrollador Web</h2>
 
 ## Sobre mi
 
