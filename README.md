@@ -6,12 +6,20 @@
 
 
 ### Sobre mi:
-
-- Soy de Chaco, Argentina.
+- Chaco, Argentina.
 - Actualmente estoy buscando trabajo.
-- Puedes contactarme a través de:
-- Linkedin: https://www.linkedin.com/in/franco-maciel
+
+### ¿Quién soy?
+- Desarrollador Full Stack. Anteriormente estudiante de ingeniería en sistemas de información.
+
+### ¿Qué conocimientos tengo?
+- HTML5, CSS3(Responsive design), ES6+, React, Redux, TypeScript, Node/Express(RESTful APIs), GraphQL, Testing(Unitario), MongoDB, PostgreSQL.
+
+### También me puedes encontrar en:
+- Github: https://github.com/FrM-bot
 - Email: damianmaciel0@gmail.com
+
+<p>Puedes reservar una reunión conmigo <a href="https://calendly.com/damianmaciel0/30min" target="blank">aquí</a></p>
 
 # [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://frm-bot.xyz/)
 
