@@ -10,16 +10,17 @@ const FrM_bot = {
    lastname: 'Maciel',
    code: ['Javascript', 'Typescript', 'HTML', 'CSS'],
    tools: ['React', 'Redux', 'GraphQL', 'Prisma', 'Mongoose', 'Node/Express', 'Tailwind', 'Next.js'],
-   dbs: ['MongoBD', 'PostgreSQL']
+   dbs: ['MongoBD', 'PostgreSQL'],
+   portfolio: 'https://frm-bot.xyz',
+   mail: 'damianmaciel0@gmail.com'
 }
 ```
 ### Sobre mi:
 - 🌎 Chaco, Argentina.
-- ⚒️ Actualmente estoy buscando trabajo.
-- 🌐 Mi pagina web https://frm-bot.xyz
+- 🌐 Mi pagina web: https://frm-bot.xyz
 
 ### ¿Quién soy?
-- Desarrollador Full Stack. Anteriormente estudiante de ingeniería en sistemas de información.
+- Desarrollador Web Full Stack.
 
 ### También me puedes encontrar en:
 - Github: https://github.com/FrM-bot
